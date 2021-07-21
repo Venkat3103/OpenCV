@@ -1,6 +1,4 @@
-# OpenCV
-
-Object detection and classification using OpenCV – YOLO Algorithm
+# Object detection and classification using OpenCV – YOLO Algorithm
 
 Sample Image:
  
