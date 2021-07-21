@@ -26,3 +26,8 @@ Labels along with the confidence with which they were classified:
 Final object detection and classification from the image with objects labelled along with their confidence levels.
 
 ![image](https://user-images.githubusercontent.com/53090670/126554719-f45d94b5-59f1-46d4-a100-e4094d13b195.png)
+
+
+Necessary YOLO files can be found in https://github.com/pjreddie/darknet
+
+Reference Source - https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
